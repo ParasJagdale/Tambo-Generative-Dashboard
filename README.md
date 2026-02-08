@@ -449,44 +449,42 @@ Built with ❤️ for "The UI Strikes Back" Hackathon
 
 ## 📸 Screenshots
 
-_(Placeholder for actual screenshots)_
-
 ### Welcome Screen
 
-- Futuristic landing with module cards
-- AI assistant introduction
-- Quick action prompts
+![Welcome Screen](/screenshots/welcome.png)
+
+_Futuristic landing with module cards, AI assistant introduction, and quick action prompts_
 
 ### Study Planner
 
-- Task list with priorities
-- Subject organization
-- Progress tracking
+![Study Planner](/screenshots/study.png)
+
+_Task list with priorities, subject organization, and progress tracking_
 
 ### Expense Tracker
 
-- Transaction list
-- Category pie chart
-- Monthly analytics
+![Expense Tracker](/screenshots/expenses.png)
+
+_Transaction list, category pie chart, and monthly analytics_
 
 ### Habit Tracker
 
-- Streak counters
-- Fitness goals
-- Daily completion
+![Habit Tracker](/screenshots/habits.png)
+
+_Streak counters, fitness goals, and daily completion tracking_
 
 ### Analytics Dashboard
 
-- Productivity score
-- Weekly trends
-- AI insights
+![Analytics Dashboard](/screenshots/analytics.png)
+
+_Productivity score, weekly trends, and AI-powered insights_
 
 ---
 
 ## 🔗 Links
 
-- **Live Demo**: [Coming Soon]
-- **GitHub**: [Your Repo URL]
+- **Live Demo**: [https://tambo-generative-dashboard.vercel.app/](https://tambo-generative-dashboard.vercel.app/)
+- **GitHub**: [https://github.com/ParasJagdale/Tambo-Generative-Dashboard](https://github.com/ParasJagdale/Tambo-Generative-Dashboard)
 - **Documentation**: [This README]
 
 ---
