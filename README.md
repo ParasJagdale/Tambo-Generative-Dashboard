@@ -668,3 +668,24 @@ Made with ❤️ using [Tambo SDK](https://tambo.ai), Next.js, and TypeScript
 [⭐ Star this repo](https://github.com/ParasJagdale/Tambo-Generative-Dashboard) • [🚀 Live Demo](https://tambo-generative-dashboard.vercel.app/) • [📺 Video Demo](https://youtu.be/7q7zbJwhp68)
 
 </div>
+
+---
+
+## 📝 AI Tool Disclosure
+
+This project was developed with assistance from **GitHub Copilot (Claude AI)** for:
+
+- Code generation and TypeScript implementations
+- Documentation and README optimization
+- Debugging and error resolution
+- Architecture guidance
+- Form text and submission materials
+
+**Original contributions by Paras Jagdale:**
+
+- Core architecture design and planning
+- Feature implementations and customization
+- Testing, validation, and deployment
+- YouTube demo video creation
+
+All code has been reviewed, tested, and validated for production quality and functionality.
