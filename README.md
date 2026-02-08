@@ -451,31 +451,31 @@ Built with ❤️ for "The UI Strikes Back" Hackathon
 
 ### Welcome Screen
 
-![Welcome Screen](/screenshots/welcome.png)
+![Welcome Screen](https://github.com/user-attachments/assets/bb195558-146c-4c92-a52b-02ef788e340a)
 
 _Futuristic landing with module cards, AI assistant introduction, and quick action prompts_
 
 ### Study Planner
 
-![Study Planner](/screenshots/study.png)
+![Study Planner](https://github.com/user-attachments/assets/7955486e-68da-4d9f-853d-869c69df8001)
 
 _Task list with priorities, subject organization, and progress tracking_
 
 ### Expense Tracker
 
-![Expense Tracker](/screenshots/expenses.png)
+![Expense Tracker](https://github.com/user-attachments/assets/ffbb06cd-e9a4-4fd8-8d41-adb55975c108)
 
 _Transaction list, category pie chart, and monthly analytics_
 
 ### Habit Tracker
 
-![Habit Tracker](/screenshots/habits.png)
+![Habit Tracker](https://github.com/user-attachments/assets/04d7024e-2bc5-4db7-880f-ac066fd98910)
 
 _Streak counters, fitness goals, and daily completion tracking_
 
 ### Analytics Dashboard
 
-![Analytics Dashboard](/screenshots/analytics.png)
+![Analytics Dashboard](https://github.com/user-attachments/assets/20090deb-54a7-442b-8b25-69e54b968d28)
 
 _Productivity score, weekly trends, and AI-powered insights_
 
